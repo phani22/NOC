@@ -1,0 +1,2 @@
+# NOC
+A <a href="http://www.extnoc.com/blog/what-is-a-network-operation-center/">network operations center (NOC)</a> is pronounced like the word “knock”, also it also known as a "network management center”. It is monitor ,maintains and control with telecommunication network management. It's the operational nerve Centre of a technological company. Depending on local setup it may or may not manage servers and applications - but is the place where people and management tools observe and control the functioning of routers, switches, leased lines or other WAN links.
